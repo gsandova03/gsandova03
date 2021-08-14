@@ -1,8 +1,5 @@
-- 👋 Hello there, I’m Gabriel Sandoval Rivillas.
-- 👀 I’m interested in Front-end development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and more technologies.
-
-<!---
-gsandova03/gsandova03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- - 👋 Hello there, I’m Gabriel Sandoval Rivillas.
+- 👀 I’m pasionated for web development with front-end. -->
+<p align="center" witdh="300">
+  <h2> 👋 Hello there, soy Gabriel Sandoval. </h2>
+</p>
