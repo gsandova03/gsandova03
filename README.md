@@ -1,6 +1,6 @@
 
 👋 Hello there, soy Gabriel Sandoval. \
-👀 Estudiante apasionado de las tecnologías de Desarrollo Web. \
+👀 Estudiante apasionado de las tecnologías de Desarrollo Web.
 
 ## Tecnologías
 <ul>
