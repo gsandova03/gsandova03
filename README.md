@@ -1,5 +1,5 @@
 <!-- - 👋 Hello there, I’m Gabriel Sandoval Rivillas.
 - 👀 I’m pasionated for web development with front-end. -->
-<p align="center" witdh="300">
+<p witdh="300">
   <h2> 👋 Hello there, soy Gabriel Sandoval. </h2>
 </p>
