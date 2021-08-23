@@ -8,5 +8,5 @@
   <li> CSS </li>
   <li> JavaScript </li>
   <li> React </li>
-  <li> Redux </li>
+<!--   <li> Redux </li> -->
 </ul>
